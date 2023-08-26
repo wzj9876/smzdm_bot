@@ -1,11 +1,11 @@
 [user.A]
-ANDROID_COOKIE = ""
+ANDROID_COOKIE = "z_me=;partner_name=b_ggg04;sess=BB-hFFEHI9lWIjcvn0zAyPIPc1%2B0cZVH7FMLFW1mfUp57efDKeN02ehpOP9kSNgF7OfpqY30BsBBE%2Bna7c3J5YRb3WNKoA%3D;pid=42cZL29ObNOdyeeAIDd%2F8%2Fib4q5cb8ZXQ%2F%2FIttetDu5zbfQDpoHn1A%3D%3D;device_type=OnePlusGM1925;z_dr=813e5b70b9a4aa251c3d570ebadfafd2;sessionID=90a9f47d8bdaaf7c3f39f5131dc97ffa.1693065196235;basic_v=0;login=1;client_id=90a9f47d8bdaaf7c3f39f5131dc97ffa.1693065196088;register_time=1421417620;network=1;device_system_version=10;partner_id=503;device_s=813e5b70b9a4aa251c3d570ebadfafd2;smzdm_version=10.5.5;ab_test=b;device_smzdm=android;apk_partner_name=smzdm_update;smzdm_id=6516555991;device_id=813e5b70b9a4aa251c3d570ebadfafd2;device_push=1;apk_partner_id=2;session_id=90a9f47d8bdaaf7c3f39f5131dc97ffa.1693065196235;device_smzdm_version=10.5.5;device_rid=90a9f47d8bdaaf7c3f39f5131dc97ffa;active_time=1678670008;z_ai=;new_device_id=813e5b70b9a4aa251c3d570ebadfafd2;is_new_user=0;last_article_info=;device_recfeed_setting=%7B%22haojia_recfeed_switch%22%3A%221%22%2C%22homepage_sort_switch%22%3A%221%22%2C%22other_recfeed_switch%22%3A%221%22%2C%22shequ_recfeed_switch%22%3A%221%22%7D;device_smzdm_version_code=905;"
 
 [user.B]
 ANDROID_COOKIE = ""
 
 [notify]
-PUSH_PLUS_TOKEN = ""
+PUSH_PLUS_TOKEN = "abfd40b643eb48c5b673a0aaa64f1d63"
 SC_KEY = ""
 TG_BOT_TOKEN = ""
 TG_USER_ID = ""
